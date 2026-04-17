@@ -2,14 +2,25 @@
 bin/
 obj/
 build/
+publish/
 *.user
 *.suo
 *.cache
 *.vs/
 .vs/
 
-## Publish output
-publish/
+## 빌드 산출물
+*.exe
+*.zip
+*.pdb
+
+## 스크립트 (배포 불필요)
+github-upload.bat
+restore-classic-notepad-gui.ps1
+구버전메모장복원.bat
+
+## 루트의 리소스 원본 (프로젝트 폴더에 복사본 있음)
+/qr.png
 
 ## OS
 Thumbs.db
@@ -18,5 +29,6 @@ Desktop.ini
 
 ## IDE
 .idea/
+.kiro/
 *.swp
 *~

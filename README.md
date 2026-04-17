@@ -17,7 +17,8 @@
 
 ## 스크린샷
 
-> 실행 화면 스크린샷을 여기에 추가하세요.
+> <img width="621" height="638" alt="image" src="https://github.com/user-attachments/assets/ca29f8f4-36f1-4bd7-983a-563dc4b8303b" />
+
 
 ## 사용법
 
